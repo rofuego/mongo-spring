@@ -276,3 +276,11 @@ gradle-app.setting
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,netbeans,java,maven,gradle,intellij+all
 
 .env
+
+# Maven generated files
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA files
+.idea/
