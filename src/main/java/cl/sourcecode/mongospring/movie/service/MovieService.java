@@ -1,8 +1,7 @@
-package cl.sourcecode.movies.api.service;
+package cl.sourcecode.mongospring.movie.service;
 
-import cl.sourcecode.movies.api.model.Movie;
-import cl.sourcecode.movies.api.repository.MovieRepository;
-import org.bson.types.ObjectId;
+import cl.sourcecode.mongospring.movie.model.Movie;
+import cl.sourcecode.mongospring.movie.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

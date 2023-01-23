@@ -1,4 +1,4 @@
-package cl.sourcecode.movies.api;
+package cl.sourcecode.mongospring.movie;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

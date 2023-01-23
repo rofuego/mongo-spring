@@ -1,7 +1,7 @@
-package cl.sourcecode.movies.api.controller;
+package cl.sourcecode.mongospring.movie.controller;
 
-import cl.sourcecode.movies.api.model.Review;
-import cl.sourcecode.movies.api.service.ReviewService;
+import cl.sourcecode.mongospring.movie.model.Review;
+import cl.sourcecode.mongospring.movie.service.ReviewService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

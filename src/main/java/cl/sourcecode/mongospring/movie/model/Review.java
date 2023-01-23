@@ -1,4 +1,4 @@
-package cl.sourcecode.movies.api.model;
+package cl.sourcecode.mongospring.movie.model;
 
 import lombok.*;
 import org.bson.types.ObjectId;

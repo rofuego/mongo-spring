@@ -1,6 +1,6 @@
-package cl.sourcecode.movies.api.repository;
+package cl.sourcecode.mongospring.movie.repository;
 
-import cl.sourcecode.movies.api.model.Movie;
+import cl.sourcecode.mongospring.movie.model.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

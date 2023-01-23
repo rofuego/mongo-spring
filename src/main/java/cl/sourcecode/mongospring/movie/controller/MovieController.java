@@ -1,8 +1,7 @@
-package cl.sourcecode.movies.api.controller;
+package cl.sourcecode.mongospring.movie.controller;
 
-import cl.sourcecode.movies.api.model.Movie;
-import cl.sourcecode.movies.api.service.MovieService;
-import org.bson.types.ObjectId;
+import cl.sourcecode.mongospring.movie.model.Movie;
+import cl.sourcecode.mongospring.movie.service.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

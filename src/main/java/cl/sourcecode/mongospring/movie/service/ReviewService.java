@@ -1,8 +1,8 @@
-package cl.sourcecode.movies.api.service;
+package cl.sourcecode.mongospring.movie.service;
 
-import cl.sourcecode.movies.api.model.Movie;
-import cl.sourcecode.movies.api.model.Review;
-import cl.sourcecode.movies.api.repository.ReviewRepository;
+import cl.sourcecode.mongospring.movie.model.Movie;
+import cl.sourcecode.mongospring.movie.model.Review;
+import cl.sourcecode.mongospring.movie.repository.ReviewRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;

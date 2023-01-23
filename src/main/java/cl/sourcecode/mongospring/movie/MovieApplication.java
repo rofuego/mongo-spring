@@ -1,13 +1,13 @@
-package cl.sourcecode.movies.api;
+package cl.sourcecode.mongospring.movie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MoviesApiApplication {
+public class MovieApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MoviesApiApplication.class, args);
+		SpringApplication.run(MovieApplication.class, args);
 	}
 
 }
